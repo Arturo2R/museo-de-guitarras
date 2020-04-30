@@ -3,16 +3,20 @@ body{
     max-width: 50em;
     font-family: 'Open Sans';
     line-height: 1.5;
+    font-size: 1.5 em;
     padding: 4em 1em;
     color: #555;
 }
 
-
+h1{
+    font-size: 4em;
+}
 
 h1,
 h2,
 strong {
     color: #333;
+    font-family: 'Philosopher', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h2{
@@ -30,5 +34,5 @@ footer{
 }
 
 img{
-    max-width:50em auto;
+    max-width:100%;
 }
