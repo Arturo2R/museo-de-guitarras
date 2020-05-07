@@ -15,8 +15,8 @@ h1{
 h1,
 h2,
 strong {
-    color: #333;
-    font-family: 'Philosopher', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(199, 18, 18);
+    font-family: 'Philosopher', 'Arial Narrow Bold', sans-serif;
 }
 
 h2{
@@ -35,4 +35,8 @@ footer{
 
 img{
     max-width:100%;
+}
+
+svg{
+    max-width: 100%;
 }
